@@ -1,0 +1,20 @@
+Hello = "Hello M.6/11"
+print(Hello)
+name = "Weerapat Pongkorh"
+print(name)
+number = "13"
+print(number)
+Age = "17"
+print(Age)
+School = "โรงเรียนชลราษฎรอำรุง"
+print(School)
+Food = "ผัดซีอิ๋ว"
+print(Food)
+Color = "สีน้ำเงิน สีเหลือง"
+print(Color)
+Hobby = "นอน ว่ายน้ำ"
+print(Hobby)
+Facebook = "Weerapat Pongkorh"
+print(Facebook)
+Address = "1/160 หมู่.2 บ้านสวนวิลล์ 2 ต.บ้านสวน อ.เมือง จ.ชลบุรี 20000"
+print(Address)
